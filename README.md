@@ -30,6 +30,7 @@ Instead of comparing frames naively, the system models each pixel as a mixture o
 A tree sways continuously in the wind. The GMM background model correctly identifies this as a background pattern and suppresses it, producing **zero false detections**.
 
 ### Video 2 — Real-Time Object Detection
+<video src="./assets/camera_video_03.mp4"></video>
 A man walking and a person on a bicycle cross the scene. The system detects and localizes both as significant motion events in **real time**, with no classification or neural network involved.
 
 ---
