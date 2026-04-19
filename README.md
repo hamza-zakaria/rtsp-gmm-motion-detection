@@ -89,9 +89,3 @@ This project intentionally avoids DL-based object detection (YOLO, SSD, etc.) to
 
 - Stauffer, C., & Grimson, W. E. L. (1999). *Adaptive background mixture models for real-time tracking.* CVPR.
 - OpenCV Documentation — [Background Subtraction](https://docs.opencv.org/4.x/d1/dc5/tutorial_background_subtraction.html)
-
----
-
-## License
-
-MIT
