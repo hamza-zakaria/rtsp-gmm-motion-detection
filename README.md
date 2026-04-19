@@ -29,9 +29,12 @@ Instead of comparing frames naively, the system models each pixel as a mixture o
 ### Video 1 — Wind Robustness
 A tree sways continuously in the wind. The GMM background model correctly identifies this as a background pattern and suppresses it, producing **zero false detections**.
 
+https://github.com/user-attachments/assets/71b7c8ac-3985-42cf-a677-bf080e233327
+
 ### Video 2 — Real-Time Object Detection
-<video src="./assets/camera_video_03.mp4"></video>
 A man walking and a person on a bicycle cross the scene. The system detects and localizes both as significant motion events in **real time**, with no classification or neural network involved.
+
+https://github.com/user-attachments/assets/72836f97-71e7-4635-bc0f-7905e172515d
 
 ---
 
